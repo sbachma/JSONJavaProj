@@ -1,0 +1,4 @@
+#This project was made in Java III class in my final term at Indian Hills.
+#This was just a basic project to help us get used to using JSON files with Java.
+#
+#The project itself reads in a JSON of school textbooks, and allows a user to do CRUD activities with the JSON, and will then save that JSON file again.
